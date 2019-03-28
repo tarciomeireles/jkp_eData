@@ -1,0 +1,13 @@
+Filename pattern:
+20181227132650_e9cf97f063f3d4ed7a4faee0c064e3da.jkp 
+20181227132650                      = Create date of file (used as KEY of file)
+e9cf97f063f3d4ed7a4faee0c064e3da    = MD5SUM of file
+.jkp                                = Obligatory Extension (.jkp)
+
+
+Invalid file, with error on line 6
+20180000000000_b1cf5a55e40566fc78cca0eacf3c4b1a.jkp
+
+Correct files with invalids and valids homologation subscriptions
+20181227132650_e9cf97f063f3d4ed7a4faee0c064e3da.jkp
+20190118112020_7e361f0ac24ebc088c0e30136971c6ac.jkp
